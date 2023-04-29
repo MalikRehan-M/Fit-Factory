@@ -1,4 +1,3 @@
-# Project-Code: detailed-hour-2985
 
 <h1>Team members<h1/>
 <li>Shivam Kumar</li>
